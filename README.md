@@ -10,7 +10,8 @@
 
 ## 🚀 Instalando o Projeto (Via apk)
 Baixe o apk e instale em seu dispositivo.
-<a href="https://github.com/LuciSantiago/desafio2/raw/master/apk/app-release.apk" download>
+
+<a href="https://github.com/LuciSantiago/desafio2/raw/master/apk/app-release.apk" a>
 
 ## 🚀 Instalando o Projeto (Via terminal e emulador físico)
 
