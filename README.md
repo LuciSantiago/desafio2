@@ -1,16 +1,32 @@
-# desafio2
+# Desafio Tecnico 02
 
-A new Flutter project.
+> Pacman
 
-## Getting Started
+## 💻 Pré-requisitos
 
-This project is a starting point for a Flutter application.
+* Dart Versão 2.17.6
+* Flutter Versão 2.17.6
+* Projeto apenas para dispositivo android.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Instalando o Projeto (Via apk)
+Baixe o apk e instale em seu dispositivo.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### <a href="https://github.com/LuciSantiago/desafio2/raw/master/apk/app-release.apk">Download</a>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Instalando o Projeto (Via terminal e emulador físico)
+
+Para instalar o projeto, siga estas etapas:
+
+Abra o seu terminal e clone o projeto
+```
+git clone https://github.com/LuciSantiago/desafio2.git
+```
+Navegue para a pasta do projeto
+```
+cd desafio2
+```
+Rode o comando para atualizar as dependencias:
+```
+flutter pub get
+```
+Abra a sua ide e execute através do seu emulador.
