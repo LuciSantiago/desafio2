@@ -2,6 +2,12 @@
 
 > Pacman
 
+<p>
+<img width="300" src="assets/readme/screen.jpeg">
+ &nbsp; &nbsp; &nbsp; &nbsp;
+<img width="300" src="assets/readme/video_pacman.gif">
+</p>
+
 ## 💻 Pré-requisitos
 
 * Dart Versão 2.17.6
